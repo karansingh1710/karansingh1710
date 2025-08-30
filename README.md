@@ -1,7 +1,7 @@
 
 <!--
 - 🔭 I’m currently working on my self projects to get hands on experience on tech.
-- 🌱 I’m currently learning Python, Java, Spring-Boot
+- 🌱 I’m currently learning Salesforce Technology, Python, Java, Spring-Boot
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 
 -->
-## Hi there! 👋 I'm a Software Engineer 🧑‍💻 interested in Backend Development 🚀. 
+## Hi there! 👋 I'm a Software Engineer 🧑‍💻 interested in Backend Development 🚀 And Currently Learning Salesforce Technology. 
 - Coding enthusiast, always learning and building. 📚💻
 - Let's connect and collaborate! 🤝
 
