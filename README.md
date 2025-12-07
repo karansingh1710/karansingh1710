@@ -1,23 +1,30 @@
+## KARAN KUMAR👋
 
-<!--
-- 🔭 I’m currently working on my self projects to get hands on experience on tech.
-- 🌱 I’m currently learning Salesforce Technology, Python, Java, Spring-Boot
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌟 MCA Student |NIET Greater Noida | Aspiring Full Stack Salesforce Developer | Tech Enthusiast
 
--->
-## Hi there! 👋 I'm a Software Engineer 🧑‍💻 interested in Backend Development 🚀 And Currently Learning Salesforce Technology. 
-- Coding enthusiast, always learning and building. 📚💻
-- Let's connect and collaborate! 🤝
-
-- I'm a passionate Backend Developer 👩‍💻 with a focus on Java Stack 🛠️. I enjoy working on Backend 🎮 and contributing to open-source projects 🤝. Feel free to reach out for collaborations or discussions. 
-* I'm a dedicated software engineer with 6 months of experience in Java. 🐍. I'm always eager to learn new technologies 🧠. 
+📍  Greater Noida, India
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karansingh1710/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:apnacode.karan@gmail.com)
+# 💻 Tech Stack:
 
-* I turn ☕ into 💻.
-* Building the future, one line of code at a time. 🚀
-* Lost in the world of ones and zeros. 🤯
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Trigger](https://img.shields.io/badge/Trigger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=karansingh1710&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karansingh1710&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=karansingh1710&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
